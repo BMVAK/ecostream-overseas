@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /chat-admin
+
+Sitemap: https://www.ecostreamoverseas.com/sitemap.xml
